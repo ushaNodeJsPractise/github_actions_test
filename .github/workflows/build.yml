@@ -10,7 +10,7 @@ name: Node.js CI
 
 jobs:
    tests:
-      runs-on: unbuntu-latest
+      runs-on: windows-latest
 
 
       strategy:
